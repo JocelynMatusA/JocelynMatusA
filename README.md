@@ -3,7 +3,9 @@
   
 # Hola, soy Jocelyn Matus Ancavil 
 
-### Ingeniera Civil Electrónica | ML/DL projects in Python |  Open to work <img src="picture/open_to_work.jpg" width="38" valign="middle" alt="#OpenToWork"/> | Investigadora en Energía y Control Inteligente
+### Ingeniera Civil Electrónica | ML/DL projects in Python |  Open to work <img src="picture/open_to_work.jpg" width="38" valign="middle" alt="#OpenToWork"/> 
+### Investigadora en Energía y Control Inteligente
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jocelyn-alejandra-matus-ancavil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Jocelyn.matus.ice@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/JocelynMatus)
@@ -19,7 +21,7 @@ Actualmente busco seguir creciendo en **machine learning, NLP, MLOps y automatiz
 
 ---
 
-## :detective: Líneas de investigación
+## Líneas de investigación :detective: 
 
 **:recycle: Sistemas híbridos de energía renovable con celdas de combustible (MCFC)**
 Diseño y optimización de un sistema híbrido eólico-solar-MCFC alimentado con biogás, orientado a cogeneración de alta eficiencia y valorización del metano antropogénico en Chile. Modelamiento electroquímico de la celda, diseño conceptual del stack y optimización multiobjetivo mediante **algoritmo genético**.
